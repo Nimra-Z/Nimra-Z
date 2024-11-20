@@ -11,9 +11,7 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimrazaheer&theme=radical" alt="GitHub Streak Stats" />
-</div> 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nimrazaheer&theme=radical)
 
 ---
 
