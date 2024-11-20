@@ -1,7 +1,8 @@
 # 👩‍💻 Nimra Zaheer
 
-**Data Engineer | Data Scientist | AI Enthusiast**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nimra-z-7582641b7)  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nimrazaheer222@gmail.com)  ![Profile Views](https://komarev.com/ghpvc/?username=Nimra-Z&color=blueviolet&style=flat-square)
+*Data Engineer | Data Scientist | AI Enthusiast*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nimra-z-7582641b7)   [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nimrazaheer222@gmail.com)   ![Profile Views](https://komarev.com/ghpvc/?username=Nimra-Z&color=blueviolet&style=flat-square)
+
 
 
 ## 👋 About Me
