@@ -1,12 +1,23 @@
+Here’s the modified version of your `README.md` to include dynamic GitHub stats, profile views, and additional sections for a polished look:
+
+---
+
 # 👩‍💻 Nimra Zaheer
 
 **Data Engineer | Data Scientist | AI Enthusiast**  
-[LinkedIn](https://linkedin.com/in/nimra-z-7582641b7) | [Email](mailto:nimrazaheer222@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nimra-z-7582641b7) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nimrazaheer222@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=nimrazaheer&color=blueviolet&style=flat-square)
 ---
 
 ## 👋 About Me
 Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineering** and **Data Science**, focused on building scalable data workflows, analyzing complex datasets, and deploying machine learning solutions. With experience in cloud platforms, modern data tools, and artificial intelligence, I aim to turn raw data into actionable insights.
+
+---
+
+## 📊 GitHub Stats
+
+![Nimra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrazaheer&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrazaheer&layout=compact&theme=radical)  
 
 ---
 
@@ -33,6 +44,14 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 
 ---
 
+## 🌟 Highlights
+
+- 🔥 **Passionate about solving complex data problems.**  
+- 🚀 **Building scalable, cloud-native solutions.**  
+- 🎯 **Focus on actionable insights with machine learning and data science.**
+
+---
+
 ## 🏆 Certifications
 - **Google Skills Boost:** Data Engineering & Analytics  
 - **IBM Data Science Specialization:** Machine Learning and Data Science  
@@ -42,5 +61,6 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 ---
 
 ## 📫 Connect with Me
+
 - **Email:** [nimrazaheer222@gmail.com](mailto:nimrazaheer222@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/nimra-z-7582641b7](https://linkedin.com/in/nimra-z-7582641b7)  
