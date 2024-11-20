@@ -4,23 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nimra-z-7582641b7) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nimrazaheer222@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nimra-Z&color=blueviolet&style=flat-square)
----
+
 
 ## 👋 About Me
 Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineering** and **Data Science**, focused on building scalable data workflows, analyzing complex datasets, and deploying machine learning solutions. With experience in cloud platforms, modern data tools, and artificial intelligence, I aim to turn raw data into actionable insights.
 
----
-
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=Nimra-Z&theme=radical)
-
----
 
 ## 🎓 Education
 **BS Artificial Intelligence**  
 *The Islamia University Of Bahawalpur (2020 - 2024)*  
 **CGPA:** 3.72/4.00  
 
----
 
 ## 🔧 Skills
 
@@ -36,7 +30,6 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 - **AI Development:** NLTK, Hugging Face  
 - **Specializations:** Data Cleaning, Feature Engineering, Predictive Modeling  
 
----
 
 ## 🌟 Highlights
 
@@ -44,7 +37,6 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 - 🚀 **Building scalable, cloud-native solutions.**  
 - 🎯 **Focus on actionable insights with machine learning and data science.**
 
----
 
 ## 🏆 Certifications
 - **Google Skills Boost:** Data Engineering & Analytics  
@@ -52,7 +44,6 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 - **Google Data Analytics Specialization:** End-to-End Data Pipeline Mastery  
 - **Kaggle Courses:** Machine Learning, Deep Learning, Data Visualization  
 
----
 
 ## 📫 Connect with Me
 
