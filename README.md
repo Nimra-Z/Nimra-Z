@@ -1,4 +1,4 @@
-# 👩‍💻 Nimra Zaheer
+# Nimra Zaheer
 
 *Data Engineer | Data Scientist | AI Enthusiast* 
  
@@ -49,3 +49,9 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 
 - **Email:** [nimrazaheer222@gmail.com](mailto:nimrazaheer222@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/nimra-z-7582641b7](https://linkedin.com/in/nimra-z-7582641b7)  
+
+---
+
+<div align="center">
+  <strong>👩‍💻Thank you for visiting my GitHub profile!👩‍💻</strong>
+</div>
