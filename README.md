@@ -1,13 +1,9 @@
-Here’s the modified version of your `README.md` to include dynamic GitHub stats, profile views, and additional sections for a polished look:
-
----
-
 # 👩‍💻 Nimra Zaheer
 
 **Data Engineer | Data Scientist | AI Enthusiast**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nimra-z-7582641b7) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nimrazaheer222@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nimrazaheer&color=blueviolet&style=flat-square)
+**Profile views** ![Profile Views](https://komarev.com/ghpvc/?username=uswamaryam12&color=blueviolet&style=flat-square)
 ---
 
 ## 👋 About Me
@@ -17,7 +13,6 @@ Hi there! I'm Nimra Zaheer, a passionate professional skilled in **Data Engineer
 
 ## 📊 GitHub Stats
 
-![Nimra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimrazaheer&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nimrazaheer&theme=radical)  
 
 ---
